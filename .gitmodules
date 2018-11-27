@@ -1,0 +1,6 @@
+[submodule "zui"]
+	path = zui
+	url = https://github.com/armory3d/zui.git
+[submodule "ae"]
+	path = ae
+	url = https://github.com/foundry2D/ae.git
